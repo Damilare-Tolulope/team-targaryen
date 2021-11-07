@@ -4,7 +4,6 @@ function Footer() {
     return (
         <footer>
             <p>Nigeria</p>
-            <hr />
             <div className="links">
                 <div className="left">
                     <a href="/#" >About</a>
@@ -24,3 +23,4 @@ function Footer() {
 }
 
 export default Footer
+
